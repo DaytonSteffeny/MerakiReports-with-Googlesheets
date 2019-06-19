@@ -4,4 +4,5 @@ This script creates a menu of reports that run functions to call the Meraki Dash
 How to code in Google Sheets?
 
 -Open up Google Sheets
+
 -Tools -> Script Editor
